@@ -13,6 +13,7 @@
 		58AD54AA1DD137A100F88F93 /* FiazDemo1.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 58AD54A81DD137A100F88F93 /* FiazDemo1.xcdatamodeld */; };
 		58AD54AC1DD137A100F88F93 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 58AD54AB1DD137A100F88F93 /* Assets.xcassets */; };
 		58AD54AF1DD137A100F88F93 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 58AD54AD1DD137A100F88F93 /* LaunchScreen.storyboard */; };
+		58AD54B71DD1550A00F88F93 /* BookmarksViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58AD54B61DD1550A00F88F93 /* BookmarksViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		58AD54AB1DD137A100F88F93 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		58AD54AE1DD137A100F88F93 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		58AD54B01DD137A100F88F93 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		58AD54B61DD1550A00F88F93 /* BookmarksViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BookmarksViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				58AD54A11DD137A100F88F93 /* AppDelegate.swift */,
 				58AD54A31DD137A100F88F93 /* ViewController.swift */,
 				58AD54A51DD137A100F88F93 /* Main.storyboard */,
+				58AD54B61DD1550A00F88F93 /* BookmarksViewController.swift */,
 				58AD54AB1DD137A100F88F93 /* Assets.xcassets */,
 				58AD54AD1DD137A100F88F93 /* LaunchScreen.storyboard */,
 				58AD54B01DD137A100F88F93 /* Info.plist */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				58AD54B71DD1550A00F88F93 /* BookmarksViewController.swift in Sources */,
 				58AD54A41DD137A100F88F93 /* ViewController.swift in Sources */,
 				58AD54AA1DD137A100F88F93 /* FiazDemo1.xcdatamodeld in Sources */,
 				58AD54A21DD137A100F88F93 /* AppDelegate.swift in Sources */,
